@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\C\u002B\u002B\\CG\\visual studio\\CGAssignment4-Finish\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E12F6411-031C-37AF-81E4-DA246FCBFFF9}|CGAssignment4.vcxproj|E:\\code\\C\u002B\u002B\\CG\\visual studio\\CGAssignment4-Finish\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\code\\C\u002B\u002B\\CG\\visual studio\\CGAssignment4-Finish\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\src\\main.cpp",
+              "ToolTip": "E:\\code\\C\u002B\u002B\\CG\\visual studio\\CGAssignment4-Finish\\src\\main.cpp*",
+              "RelativeToolTip": "..\\src\\main.cpp*",
+              "ViewState": "AgIAAM0BAAAAAAAAAAAAANMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T12:52:14.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

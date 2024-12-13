@@ -1,0 +1,10 @@
+^E:\CODE\C++\CG\VISUAL STUDIO\CGASSIGNMENT4-FINISH\CMAKELISTS.TXT
+setlocal
+E:\Download\cmake\bin\cmake.exe "-SE:/code/C++/CG/visual studio/CGAssignment4-Finish" "-BE:/code/C++/CG/visual studio/CGAssignment4-Finish/build" --check-stamp-file "E:/code/C++/CG/visual studio/CGAssignment4-Finish/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
